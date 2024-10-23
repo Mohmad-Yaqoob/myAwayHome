@@ -1,0 +1,30 @@
+[33mcommit 22fe6024b9b6949ab576ce539c362de5e1bf4bf2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 157d3ca 1710385
+Author: yaqoobgmt26@gmail.com <97838251+yaqoobgmt@users.noreply.github.com>
+Date:   Thu Oct 10 21:59:15 2024 +0530
+
+    Merge branch 'main' of https://github.com/Mohmad-Yaqoob/myAwayHome
+
+[33mcommit 157d3cafd65e278c4e4a02b969f129050c4cb998[m
+Author: yaqoobgmt26@gmail.com <97838251+yaqoobgmt@users.noreply.github.com>
+Date:   Thu Oct 10 21:55:10 2024 +0530
+
+    2nd commit
+
+[33mcommit 1710385c5e01f152a633383b3e8da5bba6625896[m
+Author: Mohmad Yaqoob <97838251+Mohmad-Yaqoob@users.noreply.github.com>
+Date:   Sat Oct 5 16:46:12 2024 +0530
+
+    Update schema.js
+
+[33mcommit aeab10e8dd5baff7247d4bc4938271554f0027e0[m
+Author: yaqoobgmt26@gmail.com <97838251+yaqoobgmt@users.noreply.github.com>
+Date:   Sat Oct 5 10:02:14 2024 +0530
+
+    Add missing files
+
+[33mcommit 6aac9fb2646c30832812115b16e86e13f672be1e[m
+Author: yaqoobgmt26@gmail.com <97838251+yaqoobgmt@users.noreply.github.com>
+Date:   Sat Oct 5 09:58:40 2024 +0530
+
+    first commit
